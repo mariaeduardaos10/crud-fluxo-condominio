@@ -5,7 +5,7 @@ Crud fluxo de moradores de um condomínio
 Instalação
 ------------
 
-Criar a tabela no Banco de dados MYSQL:
+Criar as tabela no Banco de dados MYSQL:
 
 Tabelas principais: 
 
